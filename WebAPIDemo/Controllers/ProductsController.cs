@@ -12,7 +12,7 @@ using WebAPIDemo.Models;
 
 namespace WebAPIDemo.Controllers
 {
-    public class ProductsController : ApiController
+    public class ProductsController1 : ApiController
     {
         private ProjectContextCls db = new ProjectContextCls();
 
